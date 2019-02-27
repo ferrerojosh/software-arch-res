@@ -1,6 +1,6 @@
 ## Software Architecure Resources
 
-This is a simple repository containing any resources I used to understand the devil known as software architecture.
+This is a repository containing any resources I used to understand the devil known as software architecture.
 
 ### Software Architecture in General
 
